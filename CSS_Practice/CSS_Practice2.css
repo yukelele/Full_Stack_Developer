@@ -1,0 +1,36 @@
+h3{
+  text-align: center;
+  font-weight: bold;
+  font-family: "Arial";
+}
+
+table{
+  margin: auto;
+  text-align: center;
+}
+
+th{
+  width: 400px;
+  height: 200px;
+  border: 5px solid white;
+}
+
+.One{
+  background-color: red;
+}
+
+.Two{
+  background-color: yellow;
+}
+
+.Three{
+  background-color: green;
+}
+
+.Four{
+  background-color: blue;
+}
+
+.Five{
+  background-color: purple;
+}
