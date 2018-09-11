@@ -1,0 +1,48 @@
+body{
+  text-align: center;
+  background-color: rgb(50,50,205);
+  color: white;
+  font-family: "Arial";
+
+  /* border-left: 75px solid rgb(50,150,150);
+  border-right: 75px solid rgb(50,150,150);
+  border-bottom: 75px solid rgb(50,150,150); */
+  border: 75px solid rgb(50,150,150);
+  border-top: 0px;
+  margin:0px;
+
+}
+
+.paragraph{
+  /* margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px */
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%
+
+}
+
+form{
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+input{
+  width: 200px;
+  height: 25px;
+  margin-bottom: 10px
+}
+
+#Submit{
+  color: black;
+  background-color: orange;
+  border-radius: 20px;
+  width: 150px;
+  height: 80px;
+  margin: 5px;
+  margin-top: 15px;
+  font-size: 1em;
+
+  /* font-size: 25px; */
+}
